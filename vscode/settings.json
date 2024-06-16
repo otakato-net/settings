@@ -1,5 +1,5 @@
 {
-    "editor.renderFinalNewline": false,
+    "editor.renderFinalNewline": "off",
     "extensions.autoUpdate": false,
     "extensions.ignoreRecommendations": true,
     "files.eol": "\n",
