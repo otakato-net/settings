@@ -16,5 +16,7 @@
 	tool = nvimdiff
 [pull]
 	ff = only
+[push]
+	autoSetupRemote = true
 [rebase]
 	autoSquash = true
