@@ -1,6 +1,13 @@
 {
     "recommendations": [
         "foxundermoon.shell-format",
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "github.vscode-github-actions",
+        "GitHub.vscode-pull-request-github",
+        "GraphQL.vscode-graphql",
+        "GraphQL.vscode-graphql-syntax",
+        "golang.go",
         "ms-azuretools.vscode-docker",
         "timonwong.shellcheck"
     ]
