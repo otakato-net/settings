@@ -5,6 +5,7 @@
 	d = diff
 	dd = difftool
 	s = status
+	sw = switch
 [format]
 	pretty = tformat:%C(auto)%h %C(green)%cd%C(auto) %s %C(cyan)@%an%C(auto)%d
 [init]
